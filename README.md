@@ -11,4 +11,4 @@ My initial vision is that the game will be text-based. One or more characters wi
 
 The idea is that the game will be quick to play anytime a few minutes are available. It will also be strategic. Play will be simple decision-making by clicking buttons.
 
-I'll get some docs up on the wiki. All help is appreciated.
+Information is on the wiki. All help is appreciated.
