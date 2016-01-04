@@ -3,7 +3,7 @@ social media arena combat game
 
 This is the first step of a larger project. I'm making a MMORPG with roguelike elements that also functions as a tabletop RPG. The final stage will include crowd-sourced GMing. First we have to get the combat right.
 
-I'm the designer and I hopefully will not be coding. I studied computability and programming languages in college but it's been a long time since I used those skills, and they were never very good. This is my life's work though so I will code if I have to.
+I'm the designer and I hopefully will not be coding. I studied computability and programming languages in college but it's been a long time since I used those skills, and they were never very good. This is my life's work though so I will code if I have to!
 
 My name is Julien.
 
