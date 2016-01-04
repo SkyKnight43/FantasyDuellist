@@ -9,6 +9,6 @@ My name is Julien.
 
 My initial vision is that the game will be text-based. One or more characters will be made and challenges can be issued. Generally, 1 turn will be taken at a time. A character can be in multiple duels at once, so continued play can be accomplished by switching duels or switching characters.
 
-The idea is that the game will be quick to play anytime a few minutes are available. It will also be strategic. Play will be simple decision-making by clicking buttons.
+The idea is that the game will be quick to play any time a few minutes are available. It will also be strategic. Play will be simple decision-making by clicking buttons.
 
 I'll get some docs up on the wiki. All help is appreciated.
