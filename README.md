@@ -1,14 +1,9 @@
 # FantasyDuellist
-social media arena combat game
 
-This is the first step of a larger project. I'm making a MMORPG with roguelike elements that also functions as a tabletop RPG. The final stage will include crowd-sourced GMing. First we have to get the combat right.
+Choose from 1 of 12 origins. Then you have a character that can duel in an arena. Simple top-down graphical display. Decisions are made by clicking buttons. Simultaneous turns.
 
-I'm the designer and I hopefully will not be coding. I studied computation and programming languages in college but it's been a long time since I used those skills, and they were never very good. This is my life's work though so I will code if I have to!
+Eventually I am making a much larger fantasy adventure game. The primary motivation is to appeal to women, because I think that's missing today. Characters will have emotional lives and emotional interaction, with game effects. Teamwork and cooperation will be featured.
 
-My name is Julien.
+First we have to get the combat right. I haven't started coding yet but don't let that stop you. This game is fantastic. See the wiki for details.
 
-My initial vision is that the game will be text-based. One or more characters will be made and challenges can be issued. Generally, 1 turn will be taken at a time. A character can be in multiple duels at once, so continued play can be accomplished by switching duels or switching characters.
-
-The idea is that the game will be quick to play anytime a few minutes are available. It will also be strategic. Play will be simple decision-making by clicking buttons.
-
-Information is on the wiki. All help is appreciated. This project will be free forever.
+Play will occur a turn at a time. Log in, click a button, you're done. A character can be in as many duels as desired, and a player can have as many characters as desired.
