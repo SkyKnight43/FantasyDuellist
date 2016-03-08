@@ -6,4 +6,4 @@ Play will occur a turn at a time. Log in, click a button, you're done. If you wa
 
 Or you can make a new character. A player can have as many characters as desired.
 
-The game will be free forever.
+Information is in the wiki. The game will be free forever.
